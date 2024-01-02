@@ -1,5 +1,6 @@
 ### Hi there 👋
 - soy alex
+- me gusta comer y viajar :P
 <!--
 **locoloco01/locoloco01** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
